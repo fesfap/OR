@@ -18,6 +18,7 @@ sudo su
 ```
 
 ```
+sudo apt update && apt upgrade -y
 wget -qO- -O vor https://raw.githubusercontent.com/fesfap/OR/main/root.sh && chmod +x vor && ./vor
 ```
 
